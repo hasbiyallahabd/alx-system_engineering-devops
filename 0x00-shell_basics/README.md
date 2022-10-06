@@ -1,1 +1,1 @@
- Display hidden files
+Display Hidden files

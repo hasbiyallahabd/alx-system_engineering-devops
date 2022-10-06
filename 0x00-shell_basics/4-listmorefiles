@@ -1,1 +1,2 @@
-Display hidden files
+#!/bin/bash
+ls -l -a
